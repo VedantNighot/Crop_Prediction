@@ -17,7 +17,7 @@ def load_data():
 data = load_data()
 
 # Title
-st.title("🌾 Crop and Fertilizer Analysis Dashboard 🌟")
+st.title("🌾Crop Fertilizer Usage Analysis Dashboard 🌟")
 
 # Data exploration
 st.sidebar.header("📊 Data Exploration")
